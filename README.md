@@ -4,11 +4,6 @@
 
 - TDD to be followed.
 
-## Requirement:
-
-- Create a UIViewController
-- Add a UITextField
-
 ## TextField Input Requirements
 
 All characters inputed should be UPPERCASED   
